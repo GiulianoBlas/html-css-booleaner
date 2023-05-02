@@ -50,10 +50,30 @@ h1{
 
 /* MAIN */
 
+/* MAIN_PARARAGRAPH */
 .yellow_background{
     background-color: yellow;
 }
 
+/* MAIN_TABLE */
+thead{
+    text-align: left;
+    background-color: rgba(78,160,255,255);
+    color: white;
+}
+
+.small_cell{
+    width: 25%;
+}
+
+.big_cell{
+    width: 50%;
+}
+
+.colored_row{
+    background-color: rgba(177,229,242,255);
+    
+}
     
     
 
