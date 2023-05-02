@@ -1,0 +1,51 @@
+/* GENERAL*/
+body{
+    margin: 0;
+}
+
+.dx_sx_margin{
+    margin-inline: 10px 10px;
+}
+
+/* HEADER_BANNER */
+#header_banner{
+    width: 100%;
+    height: 170px;
+    background-image: url(img/pattern.png);
+    background-size:auto;
+    position: relative;
+    background-color: rgba(78,160,255,255);
+}
+
+#header_logo{
+    width: 20%;
+    margin:10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+/* HEADER_TITLE */
+h1{
+    margin-bottom: 0;
+}
+
+.grey_text{
+    color: grey;
+}
+
+#credits_link{
+    text-decoration:none ;
+    color:  rgba(78,160,255,255);
+};
+
+#date{
+    font-size: small;
+}
+
+/* HEADER_IMG */
+#header_img{
+    margin-top: 20px;
+}
+
+
