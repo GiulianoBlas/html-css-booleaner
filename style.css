@@ -46,6 +46,7 @@ h1{
 /* HEADER_IMG */
 #header_img{
     margin-top: 20px;
+    width: 100%;
 }
 
 /* MAIN */
@@ -76,6 +77,9 @@ thead{
 }
 
 /* FOOTER */
+footer{
+    margin-bottom: 30px;
+}
 
 #slot_img_1{
     width: 200px;
