@@ -1,0 +1,112 @@
+/* GENERAL*/
+body{
+    margin: 0;
+}
+
+.dx_sx_margin{
+    width: 80%;
+    margin: auto;
+}
+
+/* HEADER_BANNER */
+#header_banner{
+    width: 100%;
+    height: 170px;
+    background-image: url(../img/pattern.png);
+    background-size:auto;
+    position: relative;
+    background-color: rgba(78,160,255,255);
+}
+
+#header_logo{
+    width: 20%;
+    margin:10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+/* HEADER_TITLE */
+h1{
+    margin-bottom: 0;
+}
+
+.grey_text{
+    color: grey;
+}
+
+#credits_link{
+    text-decoration:none ;
+    color:  rgba(78,160,255,255);
+};
+
+#date{
+    font-size: small;
+}
+
+/* HEADER_IMG */
+#header_img{
+    margin-top: 20px;
+}
+
+/* MAIN */
+
+/* MAIN_PARARAGRAPH */
+.yellow_background{
+    background-color: yellow;
+}
+
+/* MAIN_TABLE */
+thead{
+    text-align: left;
+    background-color: rgba(78,160,255,255);
+    color: white;
+}
+
+.small_cell{
+    width: 25%;
+}
+
+.big_cell{
+    width: 50%;
+}
+
+.colored_row{
+    background-color: rgba(177,229,242,255);
+    
+}
+
+/* FOOTER */
+footer{
+    margin-bottom: 30px;
+}
+
+#slot_img_1{
+    width: 200px;
+    height:150px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    margin-bottom: 10px;
+    
+}
+
+#slot_img_2{
+    width: 200px;
+    height:150px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+.footer_links{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+
+
+
+
+    
+    
+
